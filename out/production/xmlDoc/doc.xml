@@ -1,0 +1,67 @@
+<SupplierInfo>
+    <Seria>EAA</Seria>
+    <Number>005900243</Number>
+    <IssuedDate>2021-06-24T00:00:00</IssuedDate>
+    <DeliveryDate>2021-06-24T00:00:00</DeliveryDate>
+    <Supplier IDNO="1006600010112" Title="Combinatul de Carne NIVALI-PROD S.R.L."
+              Address="r.Criuleni, s. Dubasarii Vechi" CodTVA="4800487   " NResident="false" IsSupplierOnly="false"
+              TaxpayerType="1">
+        <BankAccount BranchTitle="BC'Moldindconbank'S.A. suc.'Centru' Chisinau" BranchCode="MOLDMD2X309"
+                     Account="MD17ML000002224409006289">
+            <IsManual>false</IsManual>
+        </BankAccount>
+        <RiskAnalysisValid xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true"/>
+        <IsRegistered>false</IsRegistered>
+        <IsValid>false</IsValid>
+        <IsLiquidated>false</IsLiquidated>
+        <IsLegalPerson>false</IsLegalPerson>
+    </Supplier>
+    <Buyer IDNO="1007601010736" Title="PRIMARIA S.CONGAZ" Address="s. Congaz str. Octombrie 85" NResident="false"
+           IsSupplierOnly="false" TaxpayerType="1">
+        <BankAccount BranchTitle="Ministerul Finantelor - Trezoreria de Stat" BranchCode="TREZMD2X" Account="">
+            <IsManual>true</IsManual>
+        </BankAccount>
+        <RiskAnalysisValid xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true"/>
+        <IsRegistered>false</IsRegistered>
+        <IsValid>false</IsValid>
+        <IsLiquidated>false</IsLiquidated>
+        <IsLegalPerson>true</IsLegalPerson>
+    </Buyer>
+    <Transporter IDNO="1006600010112" Title="Combinatul de Carne NIVALI-PROD SRL"
+                 Address="r.Criuleni, s. Dubasarii Vechi" CodTVA="4800487   " NResident="false" IsSupplierOnly="false"
+                 TaxpayerType="1">
+        <BankAccount BranchTitle="BC&quot;Moldindconbank&quot; SA &quot;Centru&quot; or.Chisinau"
+                     BranchCode="MOLDMD2X309" Account="MD17ML000002224409006289">
+            <IsManual>false</IsManual>
+        </BankAccount>
+        <RiskAnalysisValid xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true"/>
+        <IsRegistered>false</IsRegistered>
+        <IsValid>false</IsValid>
+        <IsLiquidated>false</IsLiquidated>
+        <IsLegalPerson>true</IsLegalPerson>
+    </Transporter>
+    <AttachedDocuments>№2/21 din 18.01.2021</AttachedDocuments>
+    <DelegateDate xmlns:p2="http://www.w3.org/2001/XMLSchema-instance" p2:nil="true"/>
+    <VehicleLogbook>
+        <IssuedDate>2021-06-01T00:00:00</IssuedDate>
+        <Seria>DAA</Seria>
+        <Number>27812831</Number>
+    </VehicleLogbook>
+    <LoadingPoint>Chisinau, str. Mesterul Manole 9</LoadingPoint>
+    <UnloadingPoint>s. Congaz (gradinita 4)</UnloadingPoint>
+    <Redirections/>
+    <Total>1050.11</Total>
+    <TotalTVA>17502</TotalTVA>
+    <Merchandises>
+        <Row IsManualEdited="false" CalculationScenario="0" Code="376"
+             Name="CARNE DE VITA c.superioara (refrigerata) (sold)" UnitOfMeasure="KG" Quantity="6.39"
+             UnitPriceWithoutTVA="95.74960000" TotalPriceWithoutTVA="611.84" TVA="20" TotalTVA="122.37"
+             TotalPrice="734.21" OtherInfo="" PackageType="n/a" NumberOfPlaces="-" GrossWeight="-"/>
+        <Row IsManualEdited="false" CalculationScenario="0" Code="393" Name="CARNE DE VITA CU OS (refrigerata)"
+             UnitOfMeasure="KG" Quantity="4.05" UnitPriceWithoutTVA="65.00000000" TotalPriceWithoutTVA="263.25" TVA="20"
+             TotalTVA="52.65" TotalPrice="315.90" OtherInfo="" PackageType="n/a" NumberOfPlaces="-" GrossWeight="-"/>
+    </Merchandises>
+    <IsFarma>false</IsFarma>
+    <CreationMotiv>4</CreationMotiv>
+    <DataContractMTender xmlns:p2="http://www.w3.org/2001/XMLSchema-instance" p2:nil="true"/>
+</SupplierInfo>
